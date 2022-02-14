@@ -43,3 +43,10 @@
 | -- | -- | -- | ORTSHOEHE | -
 | -- | -- | -- | TEMPERATUR_VORLAUF | -
 | -- | -- | -- | TEMPERATUR_RUECKLAUF | -
+| -- | -- | -- | ARBEIT_WAERME | -
+| -- | -- | -- | LEISTUNG_WAERME | -
+| FLOW | -- | L/H | DURCHFLUSS | -
+| VOLUME | -- | M^3 | VOLUMEN | -
+| LEVEL_HEIGHT | -- | -- | PEGELHOEHE | -
+| -- | -- | -- | ORTSHOEHE | -
+| LIQUID_TEMPERATUR | -- | -- | FLUESSIGKEITSTEMPERATUR | -
